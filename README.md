@@ -1,3 +1,7 @@
+### Note: 
+* UNET used for image segmentation
+* NDVI calculated from .TIFF images as .jpg, .jpeg cannot encompass NIR data
+
 # Project-AgroCaptain
 
 Project agro captain is aimed at optimising agriculture, the objective is to use deep learning algorithms and drone tech to create a report for farmers to analyze their crops. 
