@@ -1,6 +1,4 @@
-### Project details: 
-* UNET used for image segmentation
-* NDVI calculated from .TIFF images as .jpg, .jpeg cannot include NIR data
+Note: The project is not complete. It's in the development phase. UNET needs to be used for image segmentation to provide an alternate model. NDVI needs to be calculated from NIR data from .TIFF file instead of .jpg file
 
 # Project-AgroCaptain
 
